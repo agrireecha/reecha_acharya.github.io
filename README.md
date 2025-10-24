@@ -5,6 +5,6 @@
 
   # agrireecha's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[agrireecha.github.io/reecha_acharya.github.io](https://agrireecha.github.io/reecha_acharya.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
