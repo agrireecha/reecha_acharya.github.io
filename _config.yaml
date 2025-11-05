@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Reecha Acharya
-subtitle: 
+subtitle: Doctoral student | Plant breeding and Genetics | University of Minnesota
 description: Interested in plant breeding and genetics
 header: images/background.jpg
 footer: images/background.jpg
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: achar137@umn.edu
-  orcid: 0000-0001-8713-9213
+  orcid: 0009-0000-1023-743X
   google-scholar: ETJoidYAAAAJ
   github: agrireecha
-  twitter: agrireecha
-  youtube: agrireecha
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
