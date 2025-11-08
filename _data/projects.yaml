@@ -1,8 +1,7 @@
-- title: "MAGIC in Barley"
-  subtitle: Genetic Enhancement of Barley using Multi-Parents Advanced Generation Intercross (MAGIC) 
+- title: Genetic Enhancement of Barley using Multi-Parents Advanced Generation Intercross (MAGIC) 
+  subtitle: Dissertation Chapter
   image: /images/IMG_background_magic.JPG 
-  description:This is a large population assessment of FHB
-  repo: "https://agrireecha.github.io/reecha_acharya.github.io/projects/" 
+  description: | MAGIC population was created using 8 different parents to introgress multiple small effect genes into an individual 
   tags:
     - resource
 
