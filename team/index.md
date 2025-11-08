@@ -5,12 +5,8 @@ nav:
   tooltip: About Reecha
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
-
 I am a graduate research assistant at the University of Minnesota in the Department of Agronomy and Plant Genetics. I am advised by Prof. Kevin Smith and work in the barley breeding program on both spring and winter barley projects. 
 My research projects are focused on resistance against stresses in barley. I work on enhancing Fusarium headblight resistance in spring barley and enhancing winter survival in barley using proxy traits for germplasm screening.
-
-{% include section.html %}
 
 {% include section.html background="images/Reecha_field.JPG" dark=true %}
 
