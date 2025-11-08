@@ -10,10 +10,9 @@ proofer: false
 links:
   email: achar137@umn.edu
   orcid: 0009-0000-1023-743X
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: 
   github: agrireecha
-  twitter: 
-  youtube: 
+
 
 ### jekyll settings
 
