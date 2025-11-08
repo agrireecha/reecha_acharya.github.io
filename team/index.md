@@ -14,10 +14,6 @@ My research projects are focused on resistance against stresses in barley. I wor
 
 {% include section.html background="images/Reecha_field.JPG" dark=true %}
 
-{% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 
