@@ -6,7 +6,7 @@ nav:
 ---
 {% include section.html image="images/Reecha_field.JPG" dark=true %}
 <div style="display: flex; align-items: flex-start;"> 
-  {% include figure.html image="images/Reecha_field.JPG" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" %}
+  {% include figure.html image="images/Reecha_field.JPG" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" %}
   
   <div style="padding-left: 20px;">
 
