@@ -1,7 +1,8 @@
 - id: placeholder:magic-barley
   type: project
-  description: Genetic Enhancement of FHB Resistance in Barley
-  date: 2024 - 08-12
+  description: "Genetic Enhancement of FHB Resistance in Barley"
+  date: 2024-08-12
+  image: /images/IMG_background_magic.JPG
   
   
   
