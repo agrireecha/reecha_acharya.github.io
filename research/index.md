@@ -11,11 +11,6 @@ My research work explores areas of plant breeding and genetics. I have worked wi
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup= style="rich" %}
-
-{% include section.html %}
 
 ## All
 
