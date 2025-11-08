@@ -22,7 +22,11 @@
     {% endfor %}
   {% endif %}
 
-  {% assign published = include.published | date: "%B %d, %Y" %}
+  {% if page.first_published_at %}
+    {% assign published = page.first_published_at | date: "%B %d, %Y" %}
+  {% else %}
+    {% assign published = include.published | date: "%B %d, %Y" %}
+  {% endif %}
   {% assign updated = include.updated | date: "%B %d, %Y" %}
 
   {% if published %}
