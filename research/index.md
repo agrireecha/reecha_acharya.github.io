@@ -13,7 +13,7 @@ Genetic enhancement of FHB resistance using MAGIC
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Genetic enhancement of FHB resistance" style="rich" %}
 
 {% include section.html %}
 
