@@ -31,13 +31,8 @@ nav:
   image="images/2025_crkscoring.JPG"
   caption="FHB scoring 2025 at Crookston"
 %}
+
 {% endcapture %}
-
-
-
-
-
-
 
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
