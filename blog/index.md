@@ -9,7 +9,7 @@ nav:
 
 Building a history for myself beyond science with experiences on the way. My life experiences has shaped me to be who I am today. 
 
-{% include section.html %}
+{% include section.html dark = True %}
 
 {% include search-box.html %}
 
