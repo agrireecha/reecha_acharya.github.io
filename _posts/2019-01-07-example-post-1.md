@@ -1,10 +1,12 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Chasing away the oxalates in kiwiberry
+Date: 2020-03-30
+author: Reecha Acharya
 tags:
-  - biology
-  - medicine
-  - big data
+  - 3MT
+  - science communication
+  - UNH Graduate school
+  - link: https://media.unh.edu/media/Reecha%20Acharya%20-%20UNH%203MT%20Finals%202023/1_1n8jxhn0
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Participation in 3-Minute Thesis Competition was my first attempt in science communication. This was an awakening experience for me with a realization of how hard it is to communicate your scientific research to a general audience. I am thankful to UNH Graduate School and organizers for this experience. One of my best memories of being at University of New Hampshire.
