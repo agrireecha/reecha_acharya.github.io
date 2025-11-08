@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-
+Genetic enhancement of FHB resistance using MAGIC
 
 {% include section.html %}
 
