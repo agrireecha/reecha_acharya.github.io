@@ -14,6 +14,7 @@ nav:
   type="email"
   text="achar137@umn.edu"
   link= "achar137@umn.edu"
+  link = "https://github.com/agrireecha/reecha_acharya.github.io/blob/main/images/google18b0149a9cdf0b81.html"
 %}
 
 
